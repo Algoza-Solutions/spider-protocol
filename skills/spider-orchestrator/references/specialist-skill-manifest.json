@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "specialists": {
+    "architect": {
+      "directory": "architect",
+      "files": {
+        "SKILL.md": "B8177F2106F972E6F0634FDB41498979FFE3FC83CA49DD5439CA5ED4CD077797",
+        "references/role-instructions.md": "29077FAF31D20ABA9A14AF5EC580048B56BD87CF47E5CCFE72B98DF20DEDFB41",
+        "agents/openai.yaml": "FB2F6E26ADAB0FE499EC77E1A63C638CB867D2A729577E15FAE8BF9CE94BFAFB"
+      }
+    },
+    "ui-designer": {
+      "directory": "ui-designer",
+      "files": {
+        "SKILL.md": "0B0C92C16ED07E369D931B15C4F1A1AE379C4FDE862EABAFE833359C24720A13",
+        "references/role-instructions.md": "7047D4FED1D1C8C3A3E40F52F38860658167B011CFA502DD0D970FEB4126693A",
+        "agents/openai.yaml": "E99CAF8B0ECBD65418B0AC4D5E9E1CF19C0CCF2F1DF1FC3315A66E949DA256F2"
+      }
+    },
+    "planner": {
+      "directory": "planner",
+      "files": {
+        "SKILL.md": "D5DA4A2D09095BD2F0707056861C90DF834AF0002BAA7D63FA2D8A41B879A402",
+        "references/role-instructions.md": "9DF4B4BCC4FB749E33CE15CA0D8EA48314F18E0E63A00B7219B3CB0C7465020E",
+        "agents/openai.yaml": "3EE745778E0CC8236337B5F0C577D7BD4B188D171C131CCBB06A2A3A0D09924E"
+      }
+    },
+    "task-executor": {
+      "directory": "task-executor",
+      "files": {
+        "SKILL.md": "9E79DAD1E3CF7CE264F29073CA2196AD359A5C7E876C1842D749E7158E6A39F0",
+        "references/role-instructions.md": "227061B8D6B11B1ACCBECC3B514B4B2CBDBE27A91F8463AE95EAF27EFF390532",
+        "agents/openai.yaml": "860C4D3291D3844373E1C44EF751F7F056BCF323279BCCF6B13E2D5C9AE28B6B"
+      }
+    },
+    "task-validator": {
+      "directory": "task-validator",
+      "files": {
+        "SKILL.md": "5C02496AD248427DDA25971067085F4907861A4EE6A2722404D97FF97C02C8F5",
+        "references/role-instructions.md": "208D3C1938FAF94D4568E030666B45D0DBE4252B1FC63A4D1DB6A393A55D6BBF",
+        "agents/openai.yaml": "216C7CFB39DE677D0FFEE03E8232D4572A9DE40E3B54B443E83BFE899860109B"
+      }
+    },
+    "debugger": {
+      "directory": "debugger",
+      "files": {
+        "SKILL.md": "42D4E4F012F6162998846FC32A064E77CE5C9FAA52051963F22B06F458FE8AEF",
+        "references/role-instructions.md": "271CA25512F8E848D308E8E0CEAC59141C257CD274A31AD4B7E804809C7C82CB",
+        "agents/openai.yaml": "4B3546EA4F28BA27B18D24130F16587B3D6C88C35B804BB702CDA883C958B26C"
+      }
+    },
+    "doc-cleanup": {
+      "directory": "doc-cleanup",
+      "files": {
+        "SKILL.md": "E5572C772FCA00EFF6CB6C8AAAE300A8CC1337C8A9F1240F46CE9A848111D2A8",
+        "references/role-instructions.md": "BC0DD2382E768C4EA9501EE7479775DC51C56CFD8044029168C8008A327CB686",
+        "agents/openai.yaml": "30E1C080686CC1678E01238DA24D57C1945851C6F170C226AF50327EE9A0F113"
+      }
+    }
+  }
+}

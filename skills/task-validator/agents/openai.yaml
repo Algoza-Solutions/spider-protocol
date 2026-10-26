@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Task Validator"
+  short_description: "Validate delivery or revalidate completed SPIDER work"
+  default_prompt: "Use $task-validator to validate the exact Ready task or explicitly revalidate a Done task while preserving its history."

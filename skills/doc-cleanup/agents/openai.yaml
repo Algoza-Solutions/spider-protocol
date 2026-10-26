@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Doc Cleanup"
+  short_description: "Archive and streamline SPIDER project records"
+  default_prompt: "Use $doc-cleanup to clean up eligible SPIDER project documentation safely."

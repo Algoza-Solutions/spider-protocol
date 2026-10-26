@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Orchestrator"
+  short_description: "Coordinate SPIDER software delivery workflows"
+  default_prompt: "Use $spider-orchestrator to coordinate this request in a repository that follows the SPIDER protocol."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Planner"
+  short_description: "Plan minimum-sufficient SPIDER implementations"
+  default_prompt: "Use $planner to turn this SPIDER requirement and its upstream contracts into the minimum-sufficient implementation plan."

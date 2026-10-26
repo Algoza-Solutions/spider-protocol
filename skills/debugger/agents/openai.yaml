@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Debugger"
+  short_description: "Investigate and repair authorized SPIDER defects"
+  default_prompt: "Use $debugger to investigate this SPIDER defect and route or apply the authorized repair."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER UI Designer"
+  short_description: "Create implementation-ready SPIDER UX specs"
+  default_prompt: "Use $ui-designer to create the UX contract for this accepted SPIDER requirement."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Architect"
+  short_description: "Triage and design SPIDER system changes"
+  default_prompt: "Use $architect to triage this SPIDER requirement and prepare the architecture artifacts."

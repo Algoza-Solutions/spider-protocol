@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIDER Task Executor"
+  short_description: "Implement one exact authorized SPIDER task"
+  default_prompt: "Use $task-executor to implement the exact SPIDER task provided."
